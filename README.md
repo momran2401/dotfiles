@@ -60,7 +60,7 @@ https://youtu.be/asnPcPp4XoU
 1. Return to the running [assignment6](https://github.com/PGE383-HPC/assignment6) Codespace.  From the Terminal, execute the following commands
 
    ```bash
-   git rm -rf .devcontainer .github environment.yml test.py
+   git rm -rf .devcontainer .github src test Project.toml Manifest.toml
    git commit -am "Remove unneeded files"
    git remote set-url origin git@github.com:<your github username>/dotfiles.git
    ```
