@@ -87,7 +87,6 @@ https://youtu.be/asnPcPp4XoU
    change to this file and make a commit.  For example, you could delete the
    following line:
 
-   `delete me`
 
    and make a commit and push to Github.
 
